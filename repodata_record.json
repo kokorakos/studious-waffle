@@ -1,0 +1,29 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "bokeh >=2.4.2",
+    "cytoolz >=0.12.0",
+    "dask-core 2024.8.2",
+    "dask-expr >=1.1,<1.2",
+    "distributed 2024.8.2",
+    "jinja2 >=2.10.3",
+    "lz4 >=4.3.2",
+    "numpy >=1.24",
+    "pandas >=2.0",
+    "pyarrow >=14.0.1",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "dask-2024.8.2-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "a93c1e62974ad62d844fcc60d36ce6d2",
+  "name": "dask",
+  "sha256": "080475beffbda2177ded1567aaf1ea3779cb4f0dd4e50d230e8bb2cdd4737c49",
+  "size": 6830,
+  "subdir": "win-64",
+  "timestamp": 1725525041000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/dask-2024.8.2-py312haa95532_0.conda",
+  "version": "2024.8.2"
+}
