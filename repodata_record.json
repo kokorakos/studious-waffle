@@ -1,0 +1,21 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=2.7"
+  ],
+  "fn": "executing-0.8.3-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "md5": "7be61d1c3c555fb37682b28d7a53d622",
+  "name": "executing",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "19861fd553ee36da352401ece4564271be8a958726a527b9731f229fa6131c5d",
+  "size": 18683,
+  "subdir": "noarch",
+  "timestamp": 1646925120000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/executing-0.8.3-pyhd3eb1b0_0.conda",
+  "version": "0.8.3"
+}
